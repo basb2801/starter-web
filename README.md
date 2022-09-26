@@ -10,4 +10,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+This is a simple web project. It can be deployed on any webserver.
+
 ## How To Contribute
